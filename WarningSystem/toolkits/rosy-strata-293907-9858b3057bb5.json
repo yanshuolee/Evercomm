@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosy-strata-293907",
+  "private_key_id": "9858b3057bb53113b1adc6e375d88e1982ea975d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBNCVa786aI5pF\nfdbUKd6IzAsj71CUf1STQGEUDeOnE6lakUynFHvXdThun4wr+39alvO3olnS3AZ2\nd8G5qNVFrQ1f+IDXj7sQ23f5pIyMYZ/vOzNcD26Txz3y2OhCVzGGZexu4frIp8up\n181oWt80G+mzyHvdFLTXZsvTO9w+MFqUHOtp62UUFKWOit1T/OfFlpu4peVF3lo/\nE/HhtmJDXifOq59jT6ASC4WP5XwkqtRYbSuL+QMB9jd1JrNjcRtXodbpyCBqc7e9\nEicm9HRfjO8xzyfpRXKDwRQ2viNFLsgbg0kwajSsKydVnRQP7AFieSyL4RGsMj82\n0B9I9tFHAgMBAAECggEAHEd+XZcoTdYpk0OzbuP0rLVLvtDH91RulAx3qTB3QqdV\nbJTupq4QNR31SqE+f9mUxIpqgKsvgUuvWSZ3oViduaXLhWFMX+ur3UXNLn9FYJmR\niA90RGSwh3TsaQq9bv3FmVR7N6e1cNVkBtI4QK68aQDaQ58ex4zBA55foJBB0TWQ\nOTcIdYkGeNWuBCsN+Onp3T2M/91c4+I8q/tXstCGOCETqJHXAohxAA04fxYIwL/1\n3rtf900jSxSdvekecbcYXeR+cBpJkTi3YwmYc6pgsnW/uJKbQnyD9yGr/CLpSjV4\nvWEz2C3nHTFHOW7/ohZ95UN5SkFc/okQS1AS5MpzUQKBgQDiqKGuOhNN0s+sBGXE\nJRU8D9owgNps/fysfrzBjCtY9Qn5yZcxbgqt7MmTQoM5cf5jchtC3XcISKmnIL+V\naK17W6y8LmSBBfG0KdzNBgS6fGzd1zt35auuU4vEU/Y10HCWVLU4xmlBOffztsum\nBbSgVBjdfiEhrGjTO1SxkmbHzQKBgQDaNtR0IRdNqinNa8zCrrQSo0QyNlOEoVwf\nM3fYMQd+tikGCMaoKVds/+PMOHb95UVgekHuciFEdpV3+h/MwepNGnt0vYpT4aCC\ninJWMt2j8iWmQkz9N5xeoHazfLAex4YOHiTxOXnBYzWOiHdXanbb8ppY5knyhzsf\nQYRWJu7BYwKBgQCcaBFp0NmRUm/MHBy9hXlpwOanocMYgwvhXHOUe81NzYncvKeA\njJcB/ev7mmJDOc55gTweoASLytiHY6nQyDMudMx17u2buyZXVKvxLr4EkefuDaAT\n1IDsAurnx6iW6gdHNZz4WLI5OG9J1lIhdr52BJJEBc2HFxoe6UpAXu5d4QKBgEoD\nsPoWw0W3guhHOTOLeE6eDCKP5LIm3Q1EMtEkiCtFdBK05VTieOHixYxeVpX1rxtz\nPGu5UGldY4NHVoPn/iXa5qcJJyMec4fzl6Z/KEhUeMq00FJPC33ZJYnpr/8wo9qk\nBNnBKfgbQ24uAXSoCtq9pfajXc+iaL5IRa/HEtKLAoGBALkIVOBmMSLeOxrRBfQV\novmbOuMNZdkP36v3n+4+erPoO+p1QcutqZkIwjA3UC7qar/7BNnkqVHOUPDIpjNF\nw7SbBJ9PCam9Boh+J/qVNjBAHxeiU0XoaxNswHPxtXyJKcmmI/S5rXfAjuLRXqJO\nEIf8H7NaaU0ypDf8p0tCzA2p\n-----END PRIVATE KEY-----\n",
+  "client_email": "gsheet@rosy-strata-293907.iam.gserviceaccount.com",
+  "client_id": "100108281626742477825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsheet%40rosy-strata-293907.iam.gserviceaccount.com"
+}
